@@ -1,2 +1,1 @@
-# website
-Simple static website built with GitHub pages.
+[![pages-build-deployment](https://github.com/Adwalab/website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Adwalab/website/actions/workflows/pages/pages-build-deployment)
