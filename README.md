@@ -1,1 +1,1 @@
-[![pages-build-deployment](https://github.com/Adwalab/website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Adwalab/website/actions/workflows/pages/pages-build-deployment)
+[Blog de voyage](https://myatlas.adwalab.fr)
